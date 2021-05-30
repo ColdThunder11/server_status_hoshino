@@ -1,0 +1,2 @@
+# server_status_hoshino
+在Hoshino上查看你的服务器状态，兼容ServerStatus-Murasame与ServerStatus-Hotaru
